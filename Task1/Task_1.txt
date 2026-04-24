@@ -6,6 +6,7 @@ id -un
 who
 w
 
+
 #  history
 last
 last -a
